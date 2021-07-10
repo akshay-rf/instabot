@@ -15,7 +15,7 @@ print('''
 no_com = False
 insta_username = input("username: ").strip()
 insta_password = getpass.getpass()
-comm = input("set comments (seperate with space | leave empty to disable commenting): ").strip()
+comm = input("set comments (seperate with space: ").strip()
 tag = input("set tags (seperate with space): ").strip()
 com_list = []
 tag_list = []
