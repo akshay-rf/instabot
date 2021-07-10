@@ -25,16 +25,21 @@ Minimal command line automation tool to automate your instagram with **[python](
 	```
 ### interface
 - enter your instagram *username* and *password*.
+
 ![enter image description here](https://i.ibb.co/ctJXxFJ/Screenshot-from-2021-07-10-15-33-30.png)
 
 - set comments - leave it empty to disable commenting.
+
 ![enter image description here](https://i.ibb.co/25DPcXm/Screenshot-from-2021-07-10-16-26-23.png)
 - set tags - leaving it empty will cause the script to crash.
+
 ![enter image description here](https://i.ibb.co/FHynjjT/Screenshot-from-2021-07-10-16-29-50.png)
 
 - the script will start doing its thing - like, comment on posts.
+
 ![enter image description here](https://i.ibb.co/kyNf5t5/Screenshot-from-2021-07-10-16-33-43.png)
 ![enter image description here](https://i.ibb.co/0cg4pWP/Screenshot-from-2021-07-10-16-34-59.png)
+
 - working [video](https://drive.google.com/file/d/1oK6wDan_ZN6aGyFq7_pnoPG8VSRetm3D/view?usp=sharing).
 ## Some Common Errors
 
