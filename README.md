@@ -8,10 +8,14 @@ Minimal command line automation tool to automate your instagram with **[python](
 ### requirements
 - install [python3](https://www.python.org/) 
 - install [firefox](https://www.mozilla.org/en-US/firefox/new/) & [geckodriver](https://github.com/mozilla/geckodriver/releases)
+- install [wget](https://phoenixnap.com/kb/wget-command-with-examples)
 - install [instapy](https://instapy.org/)
 
 ### install the bot
-- download the main.py file here.
+- open terminal or cmd and download main.py file with [wget](https://phoenixnap.com/kb/wget-command-with-examples).
+	```console
+	wget https://raw.githubusercontent.com/akshay-rf/instabot/main/main.py
+	```
 
 ## Usage
 ### start instabot
@@ -39,7 +43,6 @@ Minimal command line automation tool to automate your instagram with **[python](
 
 ![enter image description here](https://i.ibb.co/kyNf5t5/Screenshot-from-2021-07-10-16-33-43.png)
 ![enter image description here](https://i.ibb.co/0cg4pWP/Screenshot-from-2021-07-10-16-34-59.png)
-
 - working [video](https://drive.google.com/file/d/1oK6wDan_ZN6aGyFq7_pnoPG8VSRetm3D/view?usp=sharing).
 ## Some Common Errors
 
@@ -54,5 +57,3 @@ Minimal command line automation tool to automate your instagram with **[python](
 
 ## Licence 
 GNU General Public License v3.0
-
-
