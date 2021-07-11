@@ -19,10 +19,6 @@ Minimal command line automation tool to automate your instagram with **[python](
 
 ## Usage
 ### start instabot
-- launch terminal or cmd and locate to your *Downloads* folder.
-	```console
-	$ cd Downloads
-	```
 - run main.py in your terminal or cmd.
 	```console
 	$ python3 main.py
