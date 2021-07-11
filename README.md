@@ -49,7 +49,9 @@ Minimal command line automation tool to automate your instagram with **[python](
 	- solved - https://github.com/timgrossmann/InstaPy/issues/6191
 
 - ### unable to determine correct filename for 64bit linux
-	- solved - https://stackoverflow.com/questions/63235553/instapy-error-unable-to-determine-correct-filename-for-64bit-linux  
+	- solved - https://stackoverflow.com/questions/63235553/instapy-error-unable-to-determine-correct-filename-for-64bit-linux
+- ### couldn't follow 'Username'! ~user is inaccessible
+	- solved - https://github.com/timgrossmann/InstaPy/issues/5298   
 
 ## Licence 
 GNU General Public License v3.0
